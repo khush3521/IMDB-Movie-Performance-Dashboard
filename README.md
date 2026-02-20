@@ -6,6 +6,9 @@
 
 https://github.com/khush3521/IMDB-Movie-Performance-Dashboard/blob/main/IMDB%20-%20Dashboard.png
 
+## 📊 End-to-End Analytics Pipeline
+
+Data Collection → Data Cleaning (Python) → SQL Analysis → Power BI Modeling → DAX Calculations → Business Insights
 # IMDB-Movie-Performance-Dashboard
 
 Advanced Power BI Movie Analytics Dashboard with Revenue, Budget, and Rating Analysis
