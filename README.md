@@ -77,6 +77,8 @@ This dashboard answers these questions through interactive visuals.
 - Power BI Desktop
 - DAX (Data Analysis Expressions)
 - Data Modeling
+- SQl
+- Python
 - GitHub (Version Control & Documentation)
 
 ---
@@ -100,6 +102,23 @@ This dashboard answers these questions through interactive visuals.
 - Profit Calculation
 - Top Movie Identification
 - Aggregated Vote Metrics
+
+---
+
+## 🧑‍💻 SQL Analysis
+
+SQL queries were used to:
+- Identify top revenue generating movies
+- Calculate profit margins
+- Analyze yearly rating trends
+
+## 🐍 Python Analysis
+
+Python was used for:
+- Data cleaning
+- Feature engineering (Profit calculation)
+- Exploratory Data Analysis (EDA)
+- Statistical summary
 
 ---
 
