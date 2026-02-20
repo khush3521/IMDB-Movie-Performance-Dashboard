@@ -81,31 +81,7 @@ This dashboard answers these questions through interactive visuals.
 
 ---
 
-## 📂 Project Structure
 
-Movie-Performance-Analytics/
-│
-├── Dashboard/
-│   └── Movie_Performance.pbix
-│
-├── Dataset/
-│   └── movie_dataset.csv
-│
-├── SQL/
-│   └── movie_analysis_queries.sql
-│
-├── Python/
-│   ├── data_cleaning.py
-│   ├── exploratory_analysis.ipynb
-│   └── requirements.txt
-│
-├── Reports/
-│   └── Movie_Performance_Report.pdf
-│
-├── Assets/
-│   └── dashboard_preview.png
-│
-└── README.md
 
 ## 🎨 Design Strategy
 
